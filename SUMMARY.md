@@ -16,3 +16,4 @@
 * [Data Visualization](notes/data_visualization.md)
    * [Homework 4](notes/homeworks/homework4.md)
    * Project
+* [Students Feedback](notes/students_feedback.md)
